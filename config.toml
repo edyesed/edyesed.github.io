@@ -70,6 +70,11 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 #[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 3
+
+#[[menu.main]]
 #    identifier = "samples"
 #    name = "Samples"
 #    weight = 2
@@ -92,7 +97,7 @@ pygmentsCodefencesGuessSyntax = true
 #    url = "post/2016-03-08-code-sample"
 #    weight = 3
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+#[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 3
