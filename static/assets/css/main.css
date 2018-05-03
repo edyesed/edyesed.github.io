@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700,900,300italic");
 
 /*
 	Dopetrope by HTML5 UP
@@ -1069,7 +1069,7 @@
 /* Basic */
 
 	body {
-		background: #256F5B;
+		background: #8EA336;
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
 		color: #5d5d5d;
@@ -1093,7 +1093,7 @@
 	}
 
 	strong, b {
-		color: #256F5B;
+		color: #8EA336;
 		font-weight: 400;
 	}
 
@@ -1120,7 +1120,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #256F5B;
+		color: #8EA336;
 		font-weight: 700;
 	}
 
@@ -1130,7 +1130,7 @@
 	}
 
 	a {
-		color: #29506D;
+		color: #74276D;
 		text-decoration: underline;
 	}
 
@@ -1157,7 +1157,7 @@
 
 	form label {
 		display: block;
-		color: #256F5B;
+		color: #8EA336;
 		font-weight: 400;
 		margin: 0 0 0.5em 0;
 	}
@@ -1303,7 +1303,7 @@
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #29506D;
+		background: #74276D;
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
@@ -1318,7 +1318,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #e53359;
+			background: #718EA4;
 		}
 
 		input[type="button"]:active,
@@ -1334,7 +1334,7 @@
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #256F5B;
+			background: #8EA336;
 		}
 
 			input[type="button"].alt:hover,
@@ -1342,7 +1342,7 @@
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #353132;
+				background: #8EA336;
 			}
 
 			input[type="button"].alt:active,
@@ -1445,7 +1445,7 @@
 		position: absolute;
 		left: 0;
 		top: 1.3em;
-		background-color: #29506D;
+		background-color: #74276D;
 		height: 3.5em;
 		text-align: center;
 		color: #fff;
@@ -1460,7 +1460,7 @@
 			position: absolute;
 			bottom: 0;
 			right: -1.2em;
-			border-left: solid 1.25em #29506D;
+			border-left: solid 1.25em #74276D;
 			border-top: solid 1.8em transparent;
 			border-bottom: solid 1.8em transparent;
 		}
@@ -1610,7 +1610,7 @@
 		.icon.featured {
 			position: relative;
 			display: inline-block;
-			background-color: #29506D;
+			background-color: #74276D;
 			width: 9em;
 			padding: 1.75em 0 0.75em 0;
 			border-top-left-radius: 5px;
@@ -1630,17 +1630,17 @@
 				position: absolute;
 				bottom: -1.95em;
 				left: 0;
-				border-top: solid 2em #29506D;
+				border-top: solid 2em #74276D;
 				border-left: solid 4.5em transparent;
 				border-right: solid 4.5em transparent;
 			}
 
 			.icon.featured.alt {
-				background-color: #256F5B;
+				background-color: #8EA336;
 			}
 
 				.icon.featured.alt:after {
-					border-top-color: #256F5B;
+					border-top-color: #8EA336;
 				}
 
 			.icon.featured.alt2 {
@@ -1654,7 +1654,7 @@
 /* Banner */
 
 	#banner {
-		background: #6FA798 url("../../images/pic01.jpg");
+		background: #8EA336 url("../../images/pic01.jpg");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -1662,8 +1662,8 @@
 	}
 
 		#banner header {
-			background-color: #256F5B;
-			background-color: rgba(22.7, 0, 20.8, 0.98);
+			background-color: #8EA336;
+			background-color: rgba(45.5, 15.3, 42.7, 0.98);
 		}
 
 			#banner header h2 {
@@ -1707,7 +1707,7 @@
 
 	#footer-wrapper {
 		position: relative;
-		color: #858484;
+		color: #FFFFFF;
 	}
 
 		#footer-wrapper:before {
@@ -1903,7 +1903,7 @@
 			}
 
 				#header h1 {
-					color: #256F5B;
+					color: #8EA336;
 					font-weight: 900;
 					font-size: 2.5em;
 					letter-spacing: -0.035em;
@@ -1943,14 +1943,14 @@
 					}
 
 					#nav > ul > li.current > a {
-						background: #29506D;
+						background: #74276D;
 						color: #fff !important;
 						font-weight: 700;
 					}
 
 			.dropotron {
 				border-radius: 5px;
-				background-color: #256F5B;
+				background-color: #8EA336;
 				background-color: rgba(34, 30, 31, 0.98);
 				padding: 1.25em 1.5em 1.25em 1.5em;
 				font-style: italic;
@@ -1991,7 +1991,7 @@
 						top: -9px;
 						border-left: solid 10px transparent;
 						border-right: solid 10px transparent;
-						border-bottom: solid 10px #256F5B;
+						border-bottom: solid 10px #8EA336;
 						border-bottom-color: rgba(34, 30, 31, 0.98);
 					}
 
@@ -2380,7 +2380,7 @@
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				color: #858484;
+				color: #AD74A8;
 				box-shadow: inset -3px 0px 5px 0px rgba(0, 0, 0, 0.35);
 			}
 
@@ -2495,7 +2495,7 @@
 			}
 
 				#header h1 {
-					color: #256F5B;
+					color: #8EA336;
 					font-weight: 900;
 					font-size: 1.75em;
 					letter-spacing: -0.035em;

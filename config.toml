@@ -1,6 +1,6 @@
 baseURL = "https://theoppositeof.cool/"
 languageCode = "en-us"
-title = "The Opposite of Cool"
+title = "the opposite of cool"
 theme = "hugo-theme-dopetrope"
 copyright = "(c) 2018 <a href='https://twitter.com/edyesed'>@edyesed</a>"
 metaDataFormat = "yaml"
@@ -23,9 +23,9 @@ metaDataFormat = "yaml"
 ##
 [params.portfolio]
     # You can use markdown here.
-    title = "technobabble"
+    title = "tech"
     foldername = "tech"
-    findoutmoretext = "find out more"
+    findoutmoretext = "read about this"
 
 [params.blog]
     title = "blog"

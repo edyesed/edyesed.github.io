@@ -1,15 +1,15 @@
 sections:
-- icon: 'fa-cog'
-  title: 'Ipsum consequat'
-  description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
+- icon: 'fa-github'
+  title: 'very nice code'
+  description: 'probably not written by me, but you never know'
 
-- icon: 'fa-flash'
-  title: 'Magna etiam dolor'
-  description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
+- icon: 'fa-cloud'
+  title: 'cloud + serverless'
+  description: "that's what"
 
-- icon: 'fa-star'
-  title: 'Tempus adipiscing'
-  description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
+- icon: 'fa-book'
+  title: 'reading list'
+  description: 'books and websites that I am enjoying reading'
 
 buttons:
 - link: '#'
