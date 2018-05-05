@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on the opposite of cool</title>
-    <link>https://edyesed.github.io/tags/</link>
+    <link>https://www.theoppositeof.cool/tags/</link>
     <description>Recent content in Tags on the opposite of cool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2018 &lt;a href=&#39;https://twitter.com/edyesed&#39;&gt;@edyesed&lt;/a&gt;</copyright>
     
-	<atom:link href="https://edyesed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.theoppositeof.cool/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
