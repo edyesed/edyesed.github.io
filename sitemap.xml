@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://theoppositeof.cool/blog/firstfullbook/</loc>
+    <lastmod>2018-05-05T14:55:32-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://theoppositeof.cool/page/about/</loc>
     <lastmod>2018-05-02T21:57:20-07:00</lastmod>
   </url>
@@ -14,12 +19,12 @@
   
   <url>
     <loc>https://theoppositeof.cool/</loc>
-    <lastmod>2018-05-02T21:57:20-07:00</lastmod>
+    <lastmod>2018-05-05T14:55:32-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://theoppositeof.cool/blog/</loc>
-    <lastmod>2018-05-02T21:38:32-07:00</lastmod>
+    <lastmod>2018-05-05T14:55:32-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,6 +40,12 @@
   </url>
   
   <url>
+    <loc>https://theoppositeof.cool/tags/dadops/</loc>
+    <lastmod>2018-05-05T14:55:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://theoppositeof.cool/page/</loc>
     <lastmod>2018-05-02T21:57:20-07:00</lastmod>
     <priority>0</priority>
@@ -42,7 +53,7 @@
   
   <url>
     <loc>https://theoppositeof.cool/tags/personal/</loc>
-    <lastmod>2018-05-02T21:38:32-07:00</lastmod>
+    <lastmod>2018-05-05T14:55:32-07:00</lastmod>
     <priority>0</priority>
   </url>
   
