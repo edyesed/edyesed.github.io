@@ -7,9 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2018 &lt;a href=&#39;https://twitter.com/edyesed&#39;&gt;@edyesed&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 02 May 2018 21:38:32 -0700</lastBuildDate>
     
 	<atom:link href="https://theoppositeof.cool/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Computer</title>
+      <link>https://theoppositeof.cool/tags/computer/</link>
+      <pubDate>Wed, 02 May 2018 21:38:32 -0700</pubDate>
+      
+      <guid>https://theoppositeof.cool/tags/computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://theoppositeof.cool/tags/personal/</link>
+      <pubDate>Wed, 02 May 2018 21:38:32 -0700</pubDate>
+      
+      <guid>https://theoppositeof.cool/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seattle</title>
+      <link>https://theoppositeof.cool/tags/seattle/</link>
+      <pubDate>Wed, 02 May 2018 21:38:32 -0700</pubDate>
+      
+      <guid>https://theoppositeof.cool/tags/seattle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sysadmin</title>
+      <link>https://theoppositeof.cool/tags/sysadmin/</link>
+      <pubDate>Wed, 02 May 2018 21:38:32 -0700</pubDate>
+      
+      <guid>https://theoppositeof.cool/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sysops</title>
+      <link>https://theoppositeof.cool/tags/sysops/</link>
+      <pubDate>Wed, 02 May 2018 21:38:32 -0700</pubDate>
+      
+      <guid>https://theoppositeof.cool/tags/sysops/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
