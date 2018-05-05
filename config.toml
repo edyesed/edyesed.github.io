@@ -9,7 +9,8 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-
+googleAnalytics = "UA-50727013-2"
+disqus = "https-theoppositeof-cool"
 
 # 3 color palatte http://paletton.com/#uid=32N0I0kjcl79tv1expBndh1sBbN
 # 4 color palatte http://paletton.com/#uid=7290s0kllllaFw0g0qFqFg0w0aF
@@ -29,9 +30,9 @@ pygmentsCodefencesGuessSyntax = true
 ##    email = "ed@theoppositeof.cool"
 ##
 [Params]
-  homeTitle = "where did i go wrong" 
+  homeTitle = ' '
   subtitle = "yay, another atrophying blog"
-  logo = "img/avatar-icon.png"
+  logo = "img/avatar-icon.gif"
   favicon = "img/favicon.ico"
   dateFormat = "2006-01-02"
   commit = false
@@ -42,8 +43,7 @@ pygmentsCodefencesGuessSyntax = true
   socialShare = true
 
   # Google Analytics.
-  googleAnalytics = "UA-50727013-2"
-  disqus = "https-theoppositeof-cool"
+  #googleAnalytics = "UA-50727013-2"
 
 ##    # Sidebar social links.
 [Author]
